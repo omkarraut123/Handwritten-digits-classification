@@ -1,6 +1,7 @@
 # Handwritten-digits-classification
 
 Project Structure
+
 The hands on project on Basic Image Classification is divided into following tasks:
 
 Task 1: Introduction
@@ -10,6 +11,7 @@ What is TensorFlow?
 Introduction to the Rhyme interface.
 
 Task 2: The Dataset
+
 Importing the MNIST dataset.
 A quick look at the structure of the dataset.
 A quick look at the MNIST image examples.
