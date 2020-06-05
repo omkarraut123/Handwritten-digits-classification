@@ -1,9 +1,10 @@
 # Handwritten-digits-classification
 
-#Project Structure
+Project Structure
 The hands on project on Basic Image Classification is divided into following tasks:
 
 Task 1: Introduction
+
 Introduction to the basic image classification problem.
 What is TensorFlow?
 Introduction to the Rhyme interface.
